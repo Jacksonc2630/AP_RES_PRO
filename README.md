@@ -6,4 +6,4 @@ Data availability:
 - [2020 Neighborhood Tabulation Areas (NTAs) Shapefile from NYC Department of City Planning](https://www.nyc.gov/content/planning/pages/resources/datasets/neighborhood-tabulation)
 - [2020 Community Districts Shapefile from NYC Department of City Planning](https://www.nyc.gov/content/planning/pages/resources/datasets/community-districts)
 - [2020 Demographics by Neighborhood Tabulation Area (NTA) from Department for the Aging](https://www.nyc.gov/assets/dfta/downloads/pdf/reports/Demographics_by_NTA.pdf)
-- [Ecomonic and Housing Data from NYC.GOV](https://a816-dohbesp.nyc.gov/IndicatorPublic/data-explorer/economic-conditions/?id=103#display=summary)
+- [2016-2020 Economic and Housing Data from NYC.GOV](https://a816-dohbesp.nyc.gov/IndicatorPublic/data-explorer/economic-conditions/?id=103#display=summary)
